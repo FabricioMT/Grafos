@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/fafixz/Documentos/C/Trabalho1-Grafos-FABRICIO_MEDEIROS_TOZO",
+      "environment": [],
+      "program": "/home/fafixz/Documentos/C/Trabalho1-Grafos-FABRICIO_MEDEIROS_TOZO/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "externalConsole": false
+    }
+  ]
+}
